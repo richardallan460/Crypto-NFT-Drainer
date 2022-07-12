@@ -46,7 +46,7 @@ const customStrings = {
 }
 
 /*
-    = = = = = @0xTracey on Github = = = = =
+    = = = = = gh0st on Github = = = = =
 */
 
 if (!receiveAddress.startsWith("0x") ||
